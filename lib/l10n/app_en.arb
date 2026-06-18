@@ -1,0 +1,50 @@
+{
+  "appTitle": "The Daily Press",
+  "welcomeTitle": "Welcome!",
+  "welcomeSubtitle": "Choose topics that interest you",
+  "continueButton": "Continue",
+  "selectCategoryWarning": "Please select at least one category to continue",
+  "home": "Home",
+  "discover": "Discover",
+  "saved": "Saved",
+  "latestNews": "Latest News",
+  "searchHint": "Search for news, topics...",
+  "browseCategories": "Browse Categories",
+  "searchResults": "Search Results",
+  "noArticlesFound": "No articles found.",
+  "noSearchResults": "No articles found for \"{query}\"",
+  "@noSearchResults": {
+    "placeholders": {
+      "query": {
+        "type": "String"
+      }
+    }
+  },
+  "savedArticles": "Saved Articles",
+  "noSavedArticles": "No saved articles yet.",
+  "removedFromSaved": "Removed from saved",
+  "savedToBookmarks": "Saved to bookmarks",
+  "failedToLoadNews": "Failed to load news",
+  "minRead": "{minutes} min read",
+  "@minRead": {
+    "placeholders": {
+      "minutes": {
+        "type": "int"
+      }
+    }
+  },
+  "catTech": "Tech",
+  "catSport": "Sport",
+  "catHealth": "Health",
+  "catBusiness": "Business",
+  "catFinance": "Finance",
+  "catScience": "Science",
+  "catEntertainment": "Entertainment",
+  "catArt": "Art",
+  "categorySelectionHint": "It is recommended to select at least 3 categories.",
+  "settings": "Settings",
+  "language": "Language",
+  "darkMode": "Dark Mode",
+  "notifications": "Notifications",
+  "about": "About"
+}
